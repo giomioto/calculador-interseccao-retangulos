@@ -1,6 +1,6 @@
 # calculador-interseccao-retangulos
 
-Esse repositório tratá-se da resolução do projeto 1 da disciplina de Fundamentos de Programação.
+Esse repositório tratá-se da resolução do projeto 1 da disciplina de Fundamentos de Programação, do Departamento de Informática da Universidade Técnológica Federal do Paraná.
 
 O projeto 1 foi divido na resolução de dois problemas:
 
